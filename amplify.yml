@@ -14,9 +14,6 @@ frontend:
   phases:
     preBuild:
       commands:
-        # Initialize Git Submodules
-        - git submodule update --init --recursive
-
         # Install Dart Sass
         - curl -LJO https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz
         - sudo tar -C /usr/local/bin -xf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz
@@ -45,7 +42,7 @@ frontend:
         # Install Node.JS dependencies if present
         - "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci --prefer-offline || true"
 
-        # https://github.com/gohugoio/hugo/issues/9810
+        # Fix potential Git issues with quotes in file names
         - git config --add core.quotepath false
     build:
       commands:
