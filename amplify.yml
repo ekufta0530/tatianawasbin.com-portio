@@ -56,3 +56,8 @@ frontend:
     paths:
       - ${HUGO_CACHEDIR}/**/*
       - ${NPM_CONFIG_CACHE}/**/*
+  customHeaders:
+    - pattern: '**/*'
+      headers:
+        - key: Access-Control-Allow-Origin
+          value: '*'
