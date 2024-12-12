@@ -8,24 +8,24 @@ title: >
 
 
   Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
+tab1Name: Full Time
+tab2Name: Contract
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Hive Gaming
+
+      Drove accounting and bookkeeping improvements, direct executive support to CEO and build automations to streamline processes across the organization. 
+    time: Dec 2022 to Present
+  - content: >
+      #### Senior Executive Adminstator
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+    time: 2024 -2010
   - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
+      #### 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
     time: 2008-2010

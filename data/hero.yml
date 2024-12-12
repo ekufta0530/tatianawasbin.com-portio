@@ -1,12 +1,13 @@
 ---
 enable: true
-topTitle: Hello, I am Tatiana
+topTitle: Hello, I am Natasha
 content: >
-  # I am here to optimize your time
+  # I am here for your personal business
 
-  Enjoy a premium executive assistant experience with next level attenion to detail
+  Enjoy team diversity and increase their networks among others people
+  in various fields by
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
