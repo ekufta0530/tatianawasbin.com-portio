@@ -12,19 +12,19 @@ service:
       #### Executive Assistance
       
       Provide comprehensive executive support, including scheduling, travel arrangements, and correspondence.
-    image: images/service/executive-assistant.svg
-  - content: >
-      #### Financial Analysis
-      
-      Conduct in-depth financial analysis, create detailed reports, and provide actionable insights to support informed decision-making.
-    image: images/service/finance.svg
+    image: images/service/exec.svg
   - content: >
       #### Accounting and Bookkeeping
       
       Manage accounts payable and receivable, reconcile bank statements, and prepare accurate financial statements.
-    image: images/service/accounting.svg
+    image: images/service/receipt.svg
+  - content: >
+      #### Data Analysis
+      
+      Conduct in-depth data analysis, create detailed reports, and provide actionable insights to support informed decision-making.
+    image: images/service/querystats.svg
   - content: >
       #### Process Impovements
 
       Define and implement automations to eliminate repetitive tasks and free up time for growing your business.
-    image: images/service/data-analysis.svg
+    image: images/service/rebase.svg

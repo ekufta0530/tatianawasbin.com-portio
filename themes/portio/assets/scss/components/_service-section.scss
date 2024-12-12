@@ -2,6 +2,7 @@
     position: relative;
     overflow: hidden;
     padding-bottom: 275px;
+
     &__background {
         position: absolute;
         top: 0;
@@ -13,6 +14,7 @@
             height: 100%;
         }
     }
+
     &__background_shape {
         position: absolute;
         bottom: -10%;
@@ -26,6 +28,7 @@
             display: none;
         }
     }
+
     &__background_pattern {
         position: absolute;
         bottom: 4%;
@@ -35,22 +38,48 @@
             display: none;
         }
     }
+
     &__slider {
+        display: flex;
+        gap: 20px; // Add spacing between items
+        overflow-x: auto; // Enable horizontal scrolling on mobile
+        scroll-snap-type: x mandatory; // Smooth scrolling behavior
+        padding: 20px;
+
+        // Adjust styles for smaller screens
+        @include mobile {
+            flex-direction: row; // Ensure items remain in a single row
+        }
+
         &_item {
+            flex: 0 0 auto; // Prevent items from stretching
+            scroll-snap-align: start; // Align items when scrolling
             margin: 15px;
             padding: 30px;
             box-shadow: 0px 20px 40px 0px rgba(50, 65, 141, 0.12);
             border-radius: 20px;
             background: $white;
+            min-width: 280px; // Ensure items are tall and narrower
+            max-width: 320px; // Prevent items from getting too wide
+
+            // Adjust padding and margins for smaller screens
+            @include mobile {
+                min-width: 240px; // Narrower for smaller devices
+                padding: 20px;
+                margin: 10px;
+            }
+
             &-icon {
                 height: 110px;
                 width: 125px;
                 position: relative;
+
                 .icon-background {
                     position: absolute;
                     top: 0;
                     right: 0;
                 }
+
                 .icon {
                     position: absolute;
                     left: 0;
@@ -59,23 +88,29 @@
                 }
             }
         }
+
+        // Slick slider styles
         .slick-list {
             overflow: visible;
         }
+
         .slick-dots {
             display: flex;
             align-items: center;
             margin: 0;
             padding: 0;
             justify-content: center;
+
             li {
                 margin: 0;
                 list-style: none;
                 height: 8px;
                 width: 8px;
+
                 &:not(:last-child) {
                     margin-right: 15px;
                 }
+
                 button {
                     cursor: pointer;
                     height: 100%;
@@ -86,23 +121,28 @@
                     display: block;
                     padding: 0;
                     text-indent: -9999px;
+
                     &:focus {
                         outline: 0;
                     }
+
                     &:hover {
                         background: $primary;
                     }
                 }
+
                 &.slick-active {
                     height: 10px;
                     width: 10px;
                     border-radius: 50%;
+
                     button {
                         background-color: $primary;
                     }
                 }
             }
         }
+
         .slick-slide {
             &:focus {
                 outline: 0;
