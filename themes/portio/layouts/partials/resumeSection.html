@@ -19,27 +19,29 @@
             </div>
             <div class="col-lg-6">
                 <div class="tab-content ">
-                    <div class="resume__education tab-pane active" id="{{.tab1Target}}">
-                        {{ $Section := .education }}
-                        {{ range $Section }}
-                        <div class="resume__education_item">
-                            <span class="pre-line text-primary"> {{ .time }} </span>
-                            {{ .content | markdownify }}
+                    <div class="tab-content">
+                        <!-- Swap EXPERIENCE to come first -->
+                        <div class="resume__education tab-pane active" id="{{.tab1Target}}">
+                            {{ $Section := .experience }} <!-- This was .education before -->
+                            {{ range $Section }}
+                            <div class="resume__education_item">
+                                <span class="pre-line text-primary"> {{ .time }} </span>
+                                {{ .content | markdownify }}
+                            </div>
+                            {{ end }}
                         </div>
-                        {{ end }}
-
-                    </div>
-
-                    <div class="resume__education tab-pane" id="{{.tab2Target}}">
-                        {{ $Section := .experience }}
-                        {{ range $Section }}
-                        <div class="resume__education_item">
-                            <span class="pre-line text-primary"> {{ .time }} </span>
-                            {{ .content | markdownify }}
+                    
+                        <div class="resume__education tab-pane" id="{{.tab2Target}}">
+                            {{ $Section := .education }} <!-- This was .experience before -->
+                            {{ range $Section }}
+                            <div class="resume__education_item">
+                                <span class="pre-line text-primary"> {{ .time }} </span>
+                                {{ .content | markdownify }}
+                            </div>
+                            {{ end }}
                         </div>
-                        {{ end }}
                     </div>
-
+                    
                 </div>
             </div>
         </div>

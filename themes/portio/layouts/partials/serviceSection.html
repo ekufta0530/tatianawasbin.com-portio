@@ -37,10 +37,10 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <div class="service__slider">
+                <div class="service__slider" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 20px;">
                     {{ $Section := .service }}
                     {{ range $Section }}
-                    <div class="service__slider_item">
+                    <div class="service__slider_item" style="flex: 0 0 auto; scroll-snap-align: start; min-width: 300px;">
                         <div class="service__slider_item-icon">
                             <div class="icon-background">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="122.457" height="109.702"

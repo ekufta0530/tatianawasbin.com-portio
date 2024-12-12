@@ -1,47 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Portio</title>
+    <title>Blog on TatianaWasbin.com</title>
     <link>http://localhost:1313/categories/blog/</link>
-    <description>Recent content in Blog on Portio</description>
+    <description>Recent content in Blog on TatianaWasbin.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 15:00:00 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Formatting Demo</title>
-      <link>http://localhost:1313/blog/markdown-formatting-demo/</link>
-      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
-      <guid>http://localhost:1313/blog/markdown-formatting-demo/</guid>
-      <description>&lt;p&gt;This example Markdown file compliments of &lt;a href=&#34;https://markdown-it.github.io/&#34;&gt;markdown-it.github.io&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;h1-heading-8-&#34;&gt;h1 Heading 8-)&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2-heading&#34;&gt;h2 Heading&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3-heading&#34;&gt;h3 Heading&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4-heading&#34;&gt;h4 Heading&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5-heading&#34;&gt;h5 Heading&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6-heading&#34;&gt;h6 Heading&lt;/h6&gt;&#xA;&lt;h2 id=&#34;horizontal-rules&#34;&gt;Horizontal Rules&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;typographic-replacements&#34;&gt;Typographic replacements&lt;/h2&gt;&#xA;&lt;p&gt;Enable typographer option to see result.&lt;/p&gt;&#xA;&lt;p&gt;(c) (C) (r) (R) (tm) (TM) (p) (P) +-&lt;/p&gt;&#xA;&lt;p&gt;test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.&lt;/p&gt;&#xA;&lt;p&gt;!!!!!! ???? ,, &amp;ndash; &amp;mdash;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;</description>
+      <title>What Makes a Great Executive Assistant (and How to Know If You Need One)</title>
+      <link>http://localhost:1313/blog/what-makes-great-ea/</link>
+      <pubDate>Thu, 12 Dec 2024 15:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/blog/what-makes-great-ea/</guid>
+      <description>&lt;p&gt;Running a business or managing a high-profile role comes with endless responsibilities. From strategic planning to day-to-day operations, it can be easy to feel stretched too thin. If you’ve ever felt like there aren’t enough hours in the day or that routine tasks are eating into your ability to focus on big-picture goals, you might benefit from the support of an executive assistant (EA).&lt;/p&gt;&#xA;&lt;p&gt;But what exactly makes a great executive assistant? And how do you know if hiring one is the right move for you? Let’s break it down.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
-      <link>http://localhost:1313/blog/benjamin-franklins-thoughts-about-new-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>http://localhost:1313/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
+      <title>How to Gain and Maintain Trust as an Executive Assistant</title>
+      <link>http://localhost:1313/blog/trust/</link>
+      <pubDate>Thu, 12 Dec 2024 13:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/blog/trust/</guid>
+      <description>&lt;p&gt;In the fast-paced world of executive support, trust is your greatest asset. As an executive assistant (EA), your success hinges on building a relationship of confidence and reliability with your executive. But trust isn’t something handed out freely—it’s earned through consistency, transparency, and excellence.&lt;/p&gt;&#xA;&lt;p&gt;This blog explores actionable strategies to gain and maintain trust in your role as an executive assistant, ensuring you remain a valued partner to your executive.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Designers thoughts about mobile UI</title>
-      <link>http://localhost:1313/blog/designers-thoughts-about-mobile-ui/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>http://localhost:1313/blog/designers-thoughts-about-mobile-ui/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Things you must know as a designer</title>
-      <link>http://localhost:1313/blog/things-you-must-know-as-a-designer/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>http://localhost:1313/blog/things-you-must-know-as-a-designer/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>World&#39;s Most Famous App Developers and Designers</title>
-      <link>http://localhost:1313/blog/world-most-famous-app-developers-and-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      <guid>http://localhost:1313/blog/world-most-famous-app-developers-and-designers/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;</description>
+      <title>10x Your Productivity with Automation: A Guide for Executive Assistants</title>
+      <link>http://localhost:1313/blog/10x-your-productivity-with-automations/</link>
+      <pubDate>Thu, 12 Dec 2024 12:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/blog/10x-your-productivity-with-automations/</guid>
+      <description>&lt;p&gt;In today’s fast-paced work environment, executive assistants (EAs) are expected to juggle multiple responsibilities—everything from managing executive calendars to handling travel arrangements and optimizing operational workflows. So, how can you do more with less stress? The answer lies in &lt;strong&gt;automation&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Automation isn’t just a buzzword; it’s a game-changer for executive assistants who want to reclaim time and focus on higher-value tasks. In this blog post, we’ll explore how to leverage automation tools and strategies to 10x your productivity.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

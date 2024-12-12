@@ -3,15 +3,19 @@ enable: true
 topTitle: My Skills
 content: >
   ## Why hire me for your next project?
-
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  
+  With a unique blend of operational expertise and analytical skills, I drive process improvements, streamline workflows, and support executive initiatives with precision and care.
 
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+  - title: Executive Support
+    percent: 96
+  - title: Accounting & Bookkeeping
+    percent: 86
+  - title: Process Improvement
+    percent: 78
+  - title: Data Analysis
+    percent: 75
+  - title: Project Coordination
+    percent: 67

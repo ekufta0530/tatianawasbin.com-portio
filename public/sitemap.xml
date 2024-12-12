@@ -3,25 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/blog/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+    <lastmod>2024-12-12T15:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+    <lastmod>2024-12-12T15:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/markdown-formatting-demo/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+    <loc>http://localhost:1313/tags/executive-assistants-hiring-productivity/</loc>
+    <lastmod>2024-12-12T15:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+    <lastmod>2024-12-12T15:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+    <lastmod>2024-12-12T15:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-12T15:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/what-makes-great-ea/</loc>
+    <lastmod>2024-12-12T15:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/executive-assistants/</loc>
+    <lastmod>2024-12-12T13:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/trust/</loc>
+    <lastmod>2024-12-12T13:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/10x-your-productivity-with-automations/</loc>
+    <lastmod>2024-12-12T12:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/productivity/</loc>
+    <lastmod>2024-12-12T12:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2020-08-12T18:19:35+06:00</lastmod>
@@ -35,37 +47,13 @@
     <loc>http://localhost:1313/portfolio/event-app-case-study/</loc>
     <lastmod>2020-08-12T18:07:16+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/designer-conference-at-florida-2020/</loc>
-    <lastmod>2020-07-13T13:06:26+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/documentation/</loc>
-    <lastmod>2020-07-13T13:06:26+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mobile/</loc>
-    <lastmod>2020-07-13T13:06:26+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/portfolio/case-study-one/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/designers-thoughts-about-mobile-ui/</loc>
+    <loc>http://localhost:1313/categories/documentation/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fun/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/how-to-become-acreative-designer/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/new-designers-limitations/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/things-you-must-know-as-a-designer/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/world-most-famous-app-developers-and-designers/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/you-must-know-this-before-becoming-a-designer/</loc>

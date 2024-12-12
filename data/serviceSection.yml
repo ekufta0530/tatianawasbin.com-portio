@@ -26,5 +26,5 @@ service:
   - content: >
       #### Process Impovements
 
-      Define and implement automations to eliminate repetitive tasks and free up time for growing your business
+      Define and implement automations to eliminate repetitive tasks and free up time for growing your business.
     image: images/service/data-analysis.svg
