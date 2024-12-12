@@ -1,4 +1,4 @@
-baseURL = "tatianawasbin.com"
+baseURL = "https://tatianawasbin.com"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
