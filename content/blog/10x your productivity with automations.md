@@ -1,8 +1,8 @@
 ---
 title: "10x Your Productivity with Automation: A Guide for Executive Assistants"
-date: 2024-12-12T12:00:00+06:00
-featureImage: images/single-blog/automations.png
-postImage: images/single-blog/automations.png
+date: 2024-01-04T12:00:00+06:00
+featureImage: images/allpost/robot.jpeg
+postImage: images/single-blog/automate.jpeg
 tags: productivity
 categories: blog
 ---
@@ -79,8 +79,6 @@ While automation is incredibly powerful, it’s not without challenges:
 
 ---
 
-{{< blogsection image="images/single-blog/automation-steps.jpg" title="Getting Started with Automation" >}}
-
 #### 1. **Identify Repetitive Tasks**
    Start by listing all the repetitive tasks you perform daily or weekly. These are prime candidates for automation.
 
@@ -93,7 +91,6 @@ While automation is incredibly powerful, it’s not without challenges:
 #### 4. **Measure Success**
    Track how much time you save with automation and look for additional areas to optimize.
 
-{{< /blogsection >}}
 
 ---
 
@@ -105,6 +102,3 @@ Ready to start automating? Explore tools like Zapier, Calendly, and Microsoft Po
 
 Remember, the ultimate goal isn’t just efficiency—it’s impact.
 
----
-
-Let me know if you'd like more content like this or need adjustments to this article! 🚀

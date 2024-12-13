@@ -11,20 +11,15 @@ service:
   - content: >
       #### Executive Assistance
       
-      Provide comprehensive executive support, including scheduling, travel arrangements, and correspondence.
+      Deliver trusted executive support, including scheduling, organizing travel, managing correspondence, and handling essential tasks efficiently.
     image: images/service/exec.svg
   - content: >
       #### Accounting and Bookkeeping
       
-      Manage accounts payable and receivable, reconcile bank statements, and prepare accurate financial statements.
+      Oversee accounts payable and receivable, prepare financial reports, and reconcile statements to ensure accurate and timely records.
     image: images/service/receipt.svg
   - content: >
       #### Data Analysis
       
-      Conduct in-depth data analysis, create detailed reports, and provide actionable insights to support informed decision-making.
+      Perform data analysis, generate detailed reports, and provide insights that drive strategic decisions and actionable outcomes.
     image: images/service/querystats.svg
-  - content: >
-      #### Process Impovements
-
-      Define and implement automations to eliminate repetitive tasks and free up time for growing your business.
-    image: images/service/rebase.svg

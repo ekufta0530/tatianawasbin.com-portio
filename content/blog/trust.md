@@ -1,8 +1,8 @@
 ---
 title: "How to Gain and Maintain Trust as an Executive Assistant"
 date: 2024-12-12T13:00:00+06:00
-featureImage: images/allpost/allPost-11.jpg
-postImage: images/single-blog/trust-feature.jpg
+featureImage: images/allpost/trust.jpeg
+postImage: images/single-blog/trust-feature.jpeg
 tags: executive assistants
 categories: blog
 ---
@@ -108,6 +108,3 @@ Gaining and maintaining trust as an executive assistant is not a one-time achiev
 
 Trust is the currency of your success. Invest in it wisely.
 
----
-
-This blog provides actionable insights and practical advice to help EAs foster strong, trust-based relationships with their executives. Let me know if you'd like further refinement or assistance with the next post! 🚀
