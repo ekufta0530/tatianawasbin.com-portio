@@ -1,7 +1,7 @@
 ---
 title: "10x Your Productivity with Automation: A Guide for Executive Assistants"
 date: 2024-01-04T12:00:00+06:00
-featureImage: images/allpost/robot.jpeg
+featureImage: images/allpost/robot2.jpeg
 postImage: images/single-blog/automate.jpeg
 tags: productivity
 categories: blog

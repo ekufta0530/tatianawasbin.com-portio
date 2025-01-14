@@ -1,7 +1,7 @@
 ---
 title: "How to Gain and Maintain Trust as an Executive Assistant"
 date: 2024-12-12T13:00:00+06:00
-featureImage: images/allpost/trust.jpeg
+featureImage: images/allpost/trust2.jpeg
 postImage: images/single-blog/trust-feature.jpeg
 tags: executive assistants
 categories: blog
@@ -73,7 +73,7 @@ Building trust is just the first step; maintaining it requires ongoing effort.
 
 ---
 
-{{< blogsection image="images/single-blog/trust-steps.jpg" title="The Three Pillars of Trust" >}}
+### The Three Pillars of Trust
 
 ### 1. **Reliability**
    - Show up prepared and on time.
@@ -86,8 +86,6 @@ Building trust is just the first step; maintaining it requires ongoing effort.
 ### 3. **Empathy**
    - Understand your executive’s pressures and priorities.
    - Be a calming presence in their busy day.
-
-{{< /blogsection >}}
 
 ---
 
