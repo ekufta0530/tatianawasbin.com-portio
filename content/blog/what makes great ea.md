@@ -1,8 +1,8 @@
 ---
 title: "What Makes a Great Executive Assistant (and How to Know If You Need One)"
-date: 2024-12-12T15:00:00+06:00
-featureImage: images/allpost/allPost-13.jpg
-postImage: images/single-blog/executive-assistant-guide.jpg
+date: 2024-06-12T15:00:00+06:00
+featureImage: images/allpost/ea_preview.jpg
+postImage: images/single-blog/EA.jpeg
 tags: executive assistants, hiring, productivity
 categories: blog
 ---

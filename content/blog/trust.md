@@ -1,7 +1,7 @@
 ---
 title: "How to Gain and Maintain Trust as an Executive Assistant"
 date: 2024-12-12T13:00:00+06:00
-featureImage: images/allpost/trust2.jpeg
+featureImage: images/allpost/trust-feature.jpg
 postImage: images/single-blog/trust-feature.jpeg
 tags: executive assistants
 categories: blog

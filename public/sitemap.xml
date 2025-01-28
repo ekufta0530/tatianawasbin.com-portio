@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/blog/</loc>
-    <lastmod>2024-12-27T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/business-productivity/</loc>
-    <lastmod>2024-12-27T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-12-27T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/how-admin-support-can-save-money/</loc>
-    <lastmod>2024-12-27T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/productivity-business/</loc>
-    <lastmod>2024-12-27T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-12-27T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-27T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-05T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-27T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-05T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/roi/</loc>
-    <lastmod>2024-12-27T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-05T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/executive-assistants-hiring-productivity/</loc>
-    <lastmod>2024-12-12T15:00:00+06:00</lastmod>
+    <loc>http://localhost:1313/categories/blog/</loc>
+    <lastmod>2024-12-12T13:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/what-makes-great-ea/</loc>
-    <lastmod>2024-12-12T15:00:00+06:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-12-12T13:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/executive-assistants/</loc>
     <lastmod>2024-12-12T13:00:00+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/team-productivity/</loc>
+    <lastmod>2024-12-12T13:00:00+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/trust/</loc>
     <lastmod>2024-12-12T13:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-12T13:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/executive-assistants-hiring-productivity/</loc>
+    <lastmod>2024-06-12T15:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/what-makes-great-ea/</loc>
+    <lastmod>2024-06-12T15:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/10x-your-productivity-with-automations/</loc>
     <lastmod>2024-01-04T12:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/productivity/</loc>
     <lastmod>2024-01-04T12:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/business-productivity/</loc>
+    <lastmod>2023-12-30T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/how-admin-support-can-save-money/</loc>
+    <lastmod>2023-12-30T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2020-08-12T18:19:35+06:00</lastmod>
@@ -60,15 +60,6 @@
     <lastmod>2020-08-12T18:07:16+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/case-study-one/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/documentation/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fun/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/you-must-know-this-before-becoming-a-designer/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>

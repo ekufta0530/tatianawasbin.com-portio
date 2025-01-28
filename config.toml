@@ -60,9 +60,9 @@ openingHours = "Available Monday - Friday, 8am to 6pm PST"
 phone = "(949)412-3639"
 
 [params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
+APIkey = "AIzaSyALmm9CUkzpi047mpsA138AvCvtW5lUMic"
+latitude = "33.1473268"
+longitude = "-117.338676485"
 pinImage = "images/pin.png"
 
 # Social icons

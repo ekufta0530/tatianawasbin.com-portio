@@ -11,7 +11,7 @@ service:
   - content: >
       #### Executive Assistance
       
-      Deliver trusted executive support, including scheduling, organizing travel, managing correspondence, and handling essential tasks efficiently.
+      Deliver trusted executive support such as scheduling, organizing travel, managing correspondence, summarizing meetings and handling essential tasks efficiently.
     image: images/service/exec.svg
   - content: >
       #### Accounting and Bookkeeping
@@ -21,5 +21,5 @@ service:
   - content: >
       #### Data Analysis
       
-      Perform data analysis, generate detailed reports, and provide insights that drive strategic decisions and actionable outcomes.
+      Perform data analysis, generate detailed reports, and deliver insights that drive strategic decisions, team engagement and actionable outcomes.
     image: images/service/querystats.svg
