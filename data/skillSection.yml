@@ -6,16 +6,16 @@ content: >
   
   With a unique blend of operational expertise and analytical skills, I drive process improvements, streamline workflows, and support executive initiatives with precision and care.
 
-image: images/skill/skill_image.jpg
+image: images/skill/brown-writing-3.png
 
 skill:
   - title: Executive Support
     percent: 96
-  - title: Accounting & Bookkeeping
-    percent: 86
+  - title: Project Coordination
+    percent: 90
   - title: Process Improvement
     percent: 78
   - title: Data Analysis
     percent: 75
-  - title: Project Coordination
-    percent: 67
+  - title: Accounting & Bookkeeping
+    percent:  67

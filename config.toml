@@ -30,7 +30,7 @@ url = "#blog"
 weight = 7
 [[menu.main]]
 name = "Contact"
-url = "#contact"
+url = "contact"
 weight = 8
 
 # Sitemap Menu
@@ -60,7 +60,7 @@ openingHours = "Available Monday - Friday, 8am to 6pm PST"
 phone = "(949)412-3639"
 
 [params.map]
-APIkey = "AIzaSyALmm9CUkzpi047mpsA138AvCvtW5lUMic"
+APIkey = "API_KEY"
 latitude = "33.1473268"
 longitude = "-117.338676485"
 pinImage = "images/pin.png"
