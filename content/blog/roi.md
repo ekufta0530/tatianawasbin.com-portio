@@ -1,7 +1,7 @@
 ---
 title: "The ROI of Hiring the Right Executive Assistant"
 date: 2025-01-05T12:00:00+00:00
-featureImage: images/allpost/roi_preview.jpg
+featureImage: images/allpost/roi_preview.jpeg
 postImage: images/single-blog/roi-feature.png
 ---
 
