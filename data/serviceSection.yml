@@ -7,19 +7,38 @@ content: >
   ### Proven Skills and Services
   
   With years of experience in [specific industry or field], I offer a comprehensive range of administrative and financial services. 
+# service:
+#   - content: >
+#       #### KPI Management
+      
+#       Oversee accounts payable and receivable, prepare financial reports, and reconcile statements to ensure accurate and timely records.
+#     image: images/service/receipt.svg
+#   - content: >
+#       #### Data Analysis
+      
+#       Perform data analysis, generate detailed reports, and deliver insights that drive strategic decisions, team engagement and actionable outcomes.
+#     image: images/service/querystats.svg
+#   - content: >
+#       #### Executive Assistance
+      
+#       Deliver trusted executive support such as scheduling, organizing travel, managing correspondence, summarizing meetings and handling essential tasks efficiently.
+#     image: images/service/exec.svg
 service:
   - content: >
-      #### Executive Assistance
-      
-      Deliver trusted executive support such as scheduling, organizing travel, managing correspondence, summarizing meetings and handling essential tasks efficiently.
-    image: images/service/exec.svg
-  - content: >
-      #### Accounting and Bookkeeping
-      
-      Oversee accounts payable and receivable, prepare financial reports, and reconcile statements to ensure accurate and timely records.
+      #### KPI Management & Sales Operations
+
+      Track and manage KPIs to boost sales productivity and ensure CRM data accuracy. Collaborate across teams to deliver actionable insights and improve workflows that support business growth.
     image: images/service/receipt.svg
+
   - content: >
-      #### Data Analysis
-      
-      Perform data analysis, generate detailed reports, and deliver insights that drive strategic decisions, team engagement and actionable outcomes.
+      #### Data Analysis & Reporting
+
+      Analyze sales data, generate performance reports, and provide insights that guide strategic decisions. Support leadership in identifying key improvements to drive operational success.
     image: images/service/querystats.svg
+
+  - content: >
+      #### Executive Assistance
+
+      Manage schedules, coordinate meetings, and handle key communications with precision and adaptability. Ensure smooth daily operations by supporting leadership and organizing essential tasks efficiently.
+    image: images/service/exec.svg
+

@@ -9,13 +9,13 @@ content: >
 image: images/skill/brown-writing-3.png
 
 skill:
-  - title: Executive Support
-    percent: 96
   - title: Project Coordination
-    percent: 90
-  - title: Process Improvement
-    percent: 78
+    percent: 97
   - title: Data Analysis
-    percent: 75
-  - title: Accounting & Bookkeeping
-    percent:  67
+    percent: 92
+  - title: Executive Support
+    percent: 85
+  - title: Process Improvement
+    percent: 79
+  - title: Financial Reporting
+    percent:  72
