@@ -4,7 +4,7 @@ date: 2023-12-30T12:00:00.000+00:00
 featureImage: images/allpost/working.jpeg
 postImage: images/single-blog/team.jpeg
 tags: business, productivity
-categories: blog
+# categories: blog
 ---
 
 ## Introduction

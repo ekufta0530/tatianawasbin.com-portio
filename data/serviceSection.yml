@@ -37,7 +37,7 @@ service:
     image: images/service/querystats.svg
 
   - content: >
-      #### Executive Assistance
+      #### Executive Support
 
       Manage schedules, coordinate meetings, and handle key communications with precision and adaptability. Ensure smooth daily operations by supporting leadership and organizing essential tasks efficiently.
     image: images/service/exec.svg
