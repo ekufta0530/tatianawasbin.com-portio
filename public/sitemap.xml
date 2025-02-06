@@ -11,9 +11,6 @@
     <loc>http://localhost:1313/blog/kpis/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/team-productivity/</loc>
-    <lastmod>2024-12-12T13:00:00+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/10x-your-productivity-with-automations/</loc>
     <lastmod>2024-12-04T12:00:00+06:00</lastmod>
   </url><url>
@@ -43,6 +40,9 @@
   </url><url>
     <loc>http://localhost:1313/blog/what-makes-great-ea/</loc>
     <lastmod>2024-06-12T15:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/team-productivity/</loc>
+    <lastmod>2024-01-12T13:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/business-productivity/</loc>
     <lastmod>2023-12-30T12:00:00+00:00</lastmod>
